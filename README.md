@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Dominik Śliwiński.
+- 👨‍🎓 I'm 19 years old.
+- 🏫 I'm in 3th class of IT Technical School in Brodnica, Poland.
+- 👀 I’m interested in frontend/backend programming.
+- 🌱 I’m currently learning C++/JavaScript/PHP/CSS
+- 📫 How to reach me: dominik.j.sliwinski@gmail.com
