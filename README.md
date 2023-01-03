@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dominik Śliwiński.
 - 👨‍🎓 19 years old.
-- 🏫 4th class of IT Technical School in Brodnica, Poland.
+- 🏫 4th class student of IT Technical School in Brodnica, Poland.
 - 👀 Interested in frontend/backend programming.
 - 🌱 C++/JavaScript/PHP/CSS/SQL
 - 🖥 Currently learning Laravael and ReactJS
