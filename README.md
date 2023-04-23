@@ -3,5 +3,5 @@
 - 🏫 4th class student of IT Technical School in Brodnica, Poland.
 - 👀 Interested in frontend/backend programming.
 - 🌱 C++/JavaScript/PHP/CSS/SQL
-- 🖥 Currently learning Laravael and ReactJS
+- 🖥 Currently learning Laravel
 - 📫 How to reach me: dominik.j.sliwinski@gmail.com
