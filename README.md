@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dominik Śliwiński.
 - 👨‍🎓 20 years old.
-- 🏫 I've graduated IT Technical School in Brodnica, Poland.
+- 🏫 I've graduated CKZiU Technical School in Brodnica as IT Technician.
 - 👀 Interested in frontend, backend and C++ programming.
 - 🌱 C++/JavaScript/PHP/CSS/SQL
 - 🖥 Currently learning React JS
