@@ -3,5 +3,5 @@
 - 🏫 I've graduated CKZiU Technical School in Brodnica as IT Technician.
 - 👀 Interested in frontend, backend and C++ programming.
 - 🌱 C++/JavaScript/PHP/CSS/SQL/HTML
-- 🖥 Currently learning AngularJS
+- 🖥 Currently learning Angular
 - 📫 How to reach me: dominik.j.sliwinski@gmail.com
