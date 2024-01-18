@@ -2,6 +2,6 @@
 - 👨‍🎓 20 years old
 - 🏫 I've graduated CKZiU Technical School in Brodnica as IT Technician
 - 👀 Interested in frontend, backend and C++ programming
-- 🌱 C++/JavaScript/PHP/CSS/SQL/HTML
+- 🌱 C++/JavaScript/PHP/CSS/SQL/HTML/Typscript
 - 🖥 Currently learning Angular
 - 📫 How to reach me: dominik.j.sliwinski@gmail.com
