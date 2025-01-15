@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-sliwinski&label=Profile%20views&color=0e75b6&style=flat" alt="d-sliwinski" /> </p>
 
-- 🔭 I’m currently working on ToryTabory, project that will help me with learning railway regulations. **ToryTabory**
+- 🔭 Trying to learn more C++ 😅
 
 - 📫 How to reach me **dominik.j.sliwinski@gmail.com**
 
