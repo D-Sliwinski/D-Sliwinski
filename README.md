@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-sliwinski&label=Profile%20views&color=0e75b6&style=flat" alt="d-sliwinski" /> </p>
 
-- 🔭 Trying to learn more C++ 😅
+- 🔭 Trying to learn more and more 😅
 
 - 📫 How to reach me **dominik.j.sliwinski@gmail.com**
 
