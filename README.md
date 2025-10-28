@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left>
+<p align="left">
 <ul> 
   <li>HTML</li>
   <li>CSS</li>
