@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dominik Śliwiński!</h1>
 <h3 align="center">IT Technician, Fullstack Developer, Automation/Manual Tester</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d-sliwinski&label=Profile%20views&color=0e75b6&style=flat" alt="d-sliwinski" /> </p>
-
 - 🔭 Trying to learn more and more 😅
 
 - 📫 How to reach me **dominik.j.sliwinski@gmail.com**
