@@ -17,7 +17,7 @@ I'm 23 years old, interested in **automation**, **fullstack development**, and *
 Currently building production-ready tools to improve workflow in CRM system.
 
 **What I do daily:**
-<br>**At work** - QA testing CRM systems, Python automation scripts & Selenium web scraping
+<br>**At work** - QA testing CRM system, doing Python automation scripts & Selenium web scraping
 <br>**In my free time** - learing React.js frontend + Node.js backend development
 
 ---
