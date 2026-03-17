@@ -1,30 +1,43 @@
-<h1 align="center">Hi 👋, I'm Dominik Śliwiński!</h1>
-<h3 align="center">IT Technician, Fullstack Developer, Automation/Manual Tester</h3>
+<div align="center">
 
-- 🔭 Trying to learn more and more 😅
+# 👋 Hi, I'm Dominik Śliwiński!
 
-- 📫 How to reach me **dominik.j.sliwinski@gmail.com**
-
-<p align="left">
+<p>
+  <em>IT Technician | Fullstack Developer | Automation & Manual Tester</em> 🚀
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<ul> 
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Bootstrap</li>
-  <li>SCSS</li>
-  <li>JavaScript</li>
-  <li>jQuery</li>
-  <li>TypeScript</li>
-  <li>NodeJS</li>
-  <li>PHP</li>
-  <li>Python</li>
-  <li>C++</li>
-  <li>SQL</li>
-  <li>Postman</li>
-  <li>Jira</li>
-</ul>
-</p>
+**🔭 Currently working on PricingHub** - CRM - XLSX pricing automation tool  
+**🎓 Studying at WSB Merito in Toruń** - Frontend Web Developer  
 
+</div>
+
+## 🚀 About Me
+
+I'm 23 years old, interested in **automation**, **fullstack development**, and **financial trading**.  
+Currently building production-ready tools to improve workflow in CRM system.
+
+**What I do daily:**
+<br>**At work** - QA testing CRM systems, Python automation scripts & Selenium web scraping
+<br>**In my free time** - learing React.js frontend + Node.js backend development
+
+---
+
+## 🛠️ Technologies & Tools
+
+```mermaid
+graph TB
+  A[Frontend] --> B(React)
+  A --> C(JavaScript)
+  A --> D(HTML/CSS)
+  A --> E(jQuery)
+  
+  F[Backend] --> G(Python)
+  F --> H(PHP)
+  F --> I(Node.js)
+  F --> J(SQL/MySQL)
+  
+  K[Tools] --> L(Selenium)
+  K --> M(Postman)
+  K --> N(Jira/Git)
+  K --> O(VS Code)
+  K --> P(ChromeDriver)
