@@ -26,18 +26,45 @@ Currently building production-ready tools to improve workflow in CRM system.
 
 ```mermaid
 graph TB
-  A[Frontend] --> B(React)
-  A --> C(JavaScript)
-  A --> D(HTML/CSS)
-  A --> E(jQuery)
-  
-  F[Backend] --> G(Python)
-  F --> H(PHP)
-  F --> I(Node.js)
-  F --> J(SQL/MySQL)
-  
-  K[Tools] --> L(Selenium)
-  K --> M(Postman)
-  K --> N(Jira/Git)
-  K --> O(VS Code)
-  K --> P(ChromeDriver)
+  subgraph Languages
+    A1[Python]
+    A2[JavaScript]
+    A3[C++]
+  end
+
+  subgraph Frontend
+    F1[React]
+    F2[HTML/CSS]
+    F3[jQuery]
+  end
+
+  subgraph Backend
+    B1[Node.js]
+    B2[PHP]
+    B3[SQL/MySQL]
+  end
+
+  subgraph Tools
+    T1[Selenium]
+    T2[Postman]
+    T3[Jira / Git]
+    T4[VS Code]
+    T5[ChromeDriver]
+  end
+
+  subgraph " "
+    TST[Testing]
+    AT[Automation]
+    ALG1[Algorithms]
+  end
+
+  %% Relacje
+  A2 --> F1
+  A2 --> F2
+  A3 --> ALG1
+  A1 --> ALG1
+  A1 --> TST
+  A1 --> AT
+  A1 --> B3
+  B1 --> B3
+  B2 --> B3
