@@ -3,15 +3,15 @@
 # 👋 Hi, I'm Dominik Śliwiński!
 
 <p>
-  <em>IT Technician | Fullstack Developer | Automation & Manual Tester</em> 🚀
+  <em>IT Technician | Fullstack Developer | Automation & Manual Tester</em> 
 </p>
 
-**🔭 Currently working on PricingHub** - CRM - XLSX pricing automation tool  
+**🛠 Currently working on PricingHub** - CRM - XLSX pricing automation tool  
 **🎓 Studying at WSB Merito in Toruń** - Frontend Web Developer  
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm 23 years old, interested in **automation**, **fullstack development**, and **financial trading**.  
 Currently building production-ready tools to improve workflow in CRM system.
@@ -22,7 +22,7 @@ Currently building production-ready tools to improve workflow in CRM system.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ```mermaid
 graph TB
