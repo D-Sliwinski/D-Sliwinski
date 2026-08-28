@@ -6,19 +6,14 @@
   <em>IT Technician | Fullstack Developer | Automation & Manual Tester</em> 
 </p>
 
-**🛠 Currently working on PricingHub** - CRM - XLSX pricing automation tool  
+**🛠 Currently working on Matchpoint** - Tennis tracker for me and my friends who love tennis!
 **🎓 Studying at WSB Merito in Toruń** - Frontend Web Developer  
 
 </div>
 
 ## About Me
 
-I'm 23 years old, interested in **automation**, **fullstack development**, and **financial trading**.  
-Currently building production-ready tools to improve workflow in CRM system.
-
-**What I do daily:**
-<br>**At work** - QA testing a CRM system, creating Python automation scripts and doing Selenium web scraping.
-<br>**In my free time** - learning React.js frontend and Node.js backend development.
+I'm 23 years old student, interested in **automation**, **fullstack development**, and **financial trading**.  
 
 ---
 
