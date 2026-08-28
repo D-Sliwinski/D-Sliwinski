@@ -6,7 +6,7 @@
   <em>IT Technician | Fullstack Developer | Automation & Manual Tester</em> 
 </p>
 
-**🛠 Currently working on Matchpoint** - Tennis tracker for me and my friends who love tennis!
+**🛠 Currently working on Matchpoint** - Tennis tracker for me and my friends who love tennis!<br>
 **🎓 Studying at WSB Merito in Toruń** - Frontend Web Developer  
 
 </div>
